@@ -51,7 +51,7 @@
     "node": ">=4"
   },
   "dependencies": {
-    "cordova-common": "2.1.0",
+    "cordova-common": "donnie-jp/cordova-common#fix\/gh44-entitlements",
     "ios-sim": "^6.1.2",
     "nopt": "^3.0.6",
     "plist": "^1.2.0",
